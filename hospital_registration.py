@@ -43,7 +43,7 @@ class Registration:
         self.start_time = 0  # 抢号开始时间戳
 
         # URL
-        self.domain = 'http://www.bjguahao.gov.cn'
+        self.domain = 'http://www.114yygh.com'
         self.login_url = self.domain + '/quicklogin.htm'  # 登录
         self.part_duty_url = self.domain + '/dpt/partduty.htm'  # 获取号源信息
         self.send_order_url = self.domain + '/v/sendorder.htm'  # 发送短信验证码

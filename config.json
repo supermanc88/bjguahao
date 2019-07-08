@@ -1,10 +1,10 @@
 {
-    "username": "130********",
-    "password": "******",
-    "dutyDate": "2017-10-18",
-    "hospitalId": "142",
-    "departmentId": "200039602",
+    "username": "15510672527",
+    "password": "cheng536",
+    "dutyDate": "2019-07-15",
+    "hospitalId": "103",
+    "departmentId": "200036430",
     "dutyCode": "1",
-    "medicareCardId": "",
-    "autoChoose": true
+    "medicareCardId": "130627199307010653",
+    "autoChoose": false
 }
